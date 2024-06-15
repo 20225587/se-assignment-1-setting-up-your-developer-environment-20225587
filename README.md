@@ -11,7 +11,9 @@ This assignment aims to familiarize you with the tools and configurations necess
 #Tasks:
 
 1. Select Your Operating System (OS):
-   Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/windows11
+   Choose an operating system that best suits your preferences and project requirements. Download and Install Windows 11. https://www.microsoft.com/software-download/
+
+
 
 2. Install a Text Editor or Integrated Development Environment (IDE):
    Select and install a text editor or IDE suitable for your programming languages and workflow. Download and Install Visual Studio Code. https://code.visualstudio.com/Download
@@ -52,3 +54,6 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Git repository:https://github.com/20225587/Sample
+Document :https://drive.google.com/file/d/1ZL_7OzV074SMZSW95tTHepS8WsoMpiLj/view?usp=sharing
